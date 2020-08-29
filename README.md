@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Lukas-cag/Lukas-cag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am currently working on...
+ - Game sharing site
+ - Bob vs square (my free game) - https://z7s3.itch.io/bob-vs-square
+ 
 
 Here are some ideas to get you started:
 
